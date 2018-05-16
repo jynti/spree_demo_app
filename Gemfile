@@ -57,4 +57,4 @@ gem 'spree', '~> 3.4.0'
 gem 'spree_auth_devise', '~> 3.3'
 gem 'spree_gateway', '~> 3.3'
 
-gem 'spree_variant_options', path: '../../spree/spree_variant_options'
+gem 'spree_variant_options', github: 'jynti/spree_variant_options', branch: 'appraisal-versions'
