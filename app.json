@@ -1,7 +1,7 @@
 {
   "name": "Spree Sandbox",
   "description": "demo store built with Spree",
-  "repository": "https://github.com/jynti/spree_demo11",
+  "repository": "https://github.com/jynti/spree_demo_app",
   "logo": "http://guides.spreecommerce.org/images/logo.png",
   "keywords": [
     "spree"
